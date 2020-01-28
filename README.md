@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/neo-jack-official/FastJack/master/img/vista01.png)
+![alt text](https://raw.githubusercontent.com/neo-jack-official/LibJack/master/vista01.png)
 # LibJack (libjack.py)
 # Es una Herramienta que te ayuda a instalar las librerias Python faltantes por Neo-Jack ENE/2020
 
