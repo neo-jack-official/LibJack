@@ -54,5 +54,20 @@ Abrir terminal:
 ## Revisamos que python esta instalado correctamente
 * `python3 -V`
 
+## Problemas comunes
+## No encuentro (xxx) Modulo
+xxx llamaremos a la libreria faltante  mas a bajo la llamremos SOCKS.
+Tanto modo manual como LibJack instalan las librerias en las mismas carpetas descritas mas a bajo
+
+## No encuentra la libreria SOCKS (Modo MANUAL)
+Lib socks se utiliza para conoctar a TOR.
+* `sudo apt-get install python-pip`
+* `sudo apt-get install python3-pip`
+* `sudo apt-get install socks
+Por defecto se instalara en:
+/usr/local/lib/
+Luego copia lo que este dentro y pegas en: 
+/Carpeta Personal/.local/lib
+
 
 
