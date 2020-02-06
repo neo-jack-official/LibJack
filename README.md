@@ -64,9 +64,13 @@ Lib socks se utiliza para conoctar a TOR.
 * `sudo apt-get install python-pip`
 * `sudo apt-get install python3-pip`
 * `sudo apt-get install socks
+
 Por defecto se instalara en:
+
 /usr/local/lib/
-Luego copia lo que este dentro y pegas en: 
+
+Luego copia lo que este dentro y pegas en:
+
 /Carpeta Personal/.local/lib
 
 
