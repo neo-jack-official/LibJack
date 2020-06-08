@@ -1,5 +1,0 @@
-version en español e Ingles de LibJack para windows (x86_64)
-version in English and Spanish of LibJack for Windows (x86_64)
-
-por el momento GitHub no me permite subir archivos ejecutables o comprimidos, pero puedes contactarme al Twitter @NeoJackOfficial
-At the moment GitHub dont let me upload but u can contactme via Twitter @NeoJackOfficial
