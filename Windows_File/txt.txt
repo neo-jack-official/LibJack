@@ -1,0 +1,2 @@
+version en español e Ingles de LibJack para windows (x86_64)
+version in English and Spanish of LibJack for Windows (x86_64)
